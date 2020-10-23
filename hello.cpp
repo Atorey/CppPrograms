@@ -1,7 +1,5 @@
-bye bye
-no me gusta el codigo
+Hello
+I like code!
 
-A mi tampoco ¯\_(ツ)_/¯
+¯\_(ツ)_/¯
 
-Que tal todo?
-(^◡^ )
